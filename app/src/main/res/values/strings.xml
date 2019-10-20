@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Rajeev#Quiz2</string>
+    <string name="radio">Radio Button</string>
+    <string name="button1">Next</string>
+    <string name="largetext">Large Text</string>
+    <string name="python">Python</string>
+    <string name="range_10">Range 10</string>
+    <string name="_2_years_of_exp">2 years of exp</string>
+    <string name="level_10">Level-10</string>
+    <string name="dbms">DBMS</string>
+    <string name="machine_learning">Machine Learning</string>
+    <string name="year_exp">1 year exp</string>
+    <string name="level_9">Level-9</string>
+    <string name="java">Java</string>
+    <string name="c">C</string>
+    <string name="k_sai_rajeev_b_tech">K Sai Rajeev, B.Tech</string>
+    <string name="cse_amrita">CSE @ Amrita</string>
+    <string name="amritapuri_kollam">Amritapuri, Kollam</string>
+    <string name="resume">RESUME</string>
+    <string name="app">Quiz</string>
+    <string name="quiz">Quiz</string>
+    <string name="title_activity_rr">RR</string>
+    <string name="title_activity_rajeev">Rajeev</string>
+    <string name="Edn">K Sai Rajeev, B.Tech</string>
+    <string name="Branch">CSE, Amrita</string>
+    <string name="Location">Amritapuri, Kollam</string>
+    <string name="skills">Skills</string>
+
+</resources>
